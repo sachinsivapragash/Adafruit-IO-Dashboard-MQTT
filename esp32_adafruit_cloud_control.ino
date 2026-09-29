@@ -6,8 +6,8 @@
 // Wi-Fi
 // =================================================
 
-#define WIFI_SSID "protosem"
-#define WIFI_PASS "Proto#123"
+#define WIFI_SSID "YOUR_WIFI_NAME"
+#define WIFI_PASS "YOUR_WIFI_PASSWORD"
 
 // =================================================
 // Adafruit IO
@@ -15,7 +15,7 @@
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "sachinn__s"
+#define AIO_USERNAME    "YOUR_NEW_ADAFRUIT_IO_USERNAME"
 #define AIO_KEY         "YOUR_NEW_ADAFRUIT_IO_KEY"
 
 // =================================================
